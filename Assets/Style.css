@@ -1,0 +1,113 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'sans-serif';
+    background-color: rgb(247, 206, 206);
+}
+
+header{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(247, 206, 206);    
+    text-align: center;
+    display: block;
+    border-bottom: cadetblue solid 5px;
+    padding: 5px;
+      
+}
+
+section {
+    margin-top: 100 auto;
+    width: 80%;
+    display: inline;   
+    background-color: rgb(247, 206, 206);
+    text-align: center;
+    
+}
+
+.section_2 {
+    margin: 0 auto;
+    width: 80%;
+    display: inline;   
+    background-color: rgb(247, 206, 206);
+    
+    
+}
+
+a {
+    background-color: cyan;
+    text-align: center;   
+    margin: 200px;
+    position: relative;
+    right: -23px;
+    border: 2px solid black;
+    border-radius: 1px;
+    padding: 5px
+}
+
+
+h2
+{
+    background-color: rgb(247, 206, 206);
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+}
+
+#image {
+
+    border-radius: 5px;
+    border: 10px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+          
+}
+
+#image2 {
+
+    border-radius: 5px;
+    border: 10px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+
+}
+
+.Square {  
+        width: 600px;
+        height: 600px;
+                border: 15px solid black;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;   
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        
+  
+}
+
+.form-1{
+    background-color: white;
+}
+
+label,
+input {
+    background-color: white;
+    padding: 5px;
+    border-radius: 2px;
+    margin: 5px;
+    
+    }
+
+
